@@ -13,4 +13,8 @@
     height: 80px;
     border-radius: 50%;
     background-color: #62687F;
+
+    animation: bounce 2s;
+    animation-direction: alternate;
+    animation-iteration-count: infinite;
 }
