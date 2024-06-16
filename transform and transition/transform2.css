@@ -5,12 +5,12 @@
     margin: 100px;
     background-color: rgba(55, 255, 5, 0.5);
     border-radius: 12px;
-    border: solid #6feb6f 4px;
+    border: solid hsl(120, 76%, 68%) 4px;
 }
 
 .box:hover{
     transform: rotateZ(60deg);
     background-color: lightcoral;
-    opacity: 50%;
+    opacity: 0.5;
     transition: 2s;
 }

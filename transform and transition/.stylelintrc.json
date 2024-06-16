@@ -1,0 +1,6 @@
+{
+    "rules":{
+        "aplha-value-notation": "number",
+        "color-no-hex": true
+    }
+}
